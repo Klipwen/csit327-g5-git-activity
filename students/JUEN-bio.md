@@ -2,5 +2,5 @@
 - Year: 3rd Year
 - Section: G5
 - Favorite Language: Java
-- One Git Tip Learned: git status for checking
+- One Git Tip Learned: often git status for checking.
 - GitHub: @Klipwen
