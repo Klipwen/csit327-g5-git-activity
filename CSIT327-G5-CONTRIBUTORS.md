@@ -2,4 +2,4 @@
 
 * Add your name here in Task C
 * Revilleza, Frederick (**@juantojuan**)
-* Juen, Gee Caliph (**@klipwen**)
+* Juen, Gee Caliph (**@Klipwen**)
