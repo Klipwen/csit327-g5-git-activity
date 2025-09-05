@@ -3,4 +3,4 @@
 - Section: G5
 - Favorite Language: Java
 - One Git Tip Learned: often git status for checking.
-- GitHub: @Klipwen
+- GitHub: @klipwen
